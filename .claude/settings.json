@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(//Users/uminomae/dev-private/**)",
+      "Edit(//Users/uminomae/dev-private/**)",
+      "Write(//Users/uminomae/dev-private/**)",
+      "Bash(*dev-private*)"
+    ]
+  }
+}
